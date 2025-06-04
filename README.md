@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highly motivated Computer Engineering student with a strong foundation in software development and a dedicated research interest in Machine Learning, particularly focusing on Continual Learning, Decentralized Systems, and efficient AI deployment on resource-constrained devices (Edge AI). Proven ability to implement complex algorithms, conduct experiments, and translate theoretical concepts into practical applications, demonstrated through projects involving autoencoders on microcontrollers and industry experience in full-stack development. Eager to contribute to cutting edge research in adaptive and distributed AI systems as a Visiting Researcher at the Pervasive AI Lab.
+Highly motivated Computer Engineering student with a strong foundation in software development and a dedicated research interest in Machine Learning, particularly focusing on Continual Learning, Decentralized Systems, and efficient AI deployment on resource-constrained devices (Edge AI). Proven ability to implement complex algorithms, conduct experiments, and translate theoretical concepts into practical applications, demonstrated through projects involving autoencoders on microcontrollers and industry experience in full-stack development. 
 
 
 ## 🌐 Socials:

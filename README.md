@@ -55,7 +55,7 @@
 <table align="center" width="100%">
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saaim12&theme=dracula" width="100%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saaim12&theme=dark" width="100%">
     </td>
   </tr>
 
@@ -63,10 +63,10 @@
 
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saaim12&theme=dracula" width="95%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saaim12&theme=dark" width="95%">
     </td>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saaim12&theme=dracula" width="95%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saaim12&theme=dark" width="95%">
     </td>
   </tr>
 
@@ -74,10 +74,10 @@
 
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saaim12&theme=dracula" width="95%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saaim12&theme=dark" width="95%">
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saaim12&theme=dracula&utcOffset=5" width="95%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saaim12&theme=dark&utcOffset=5" width="95%">
     </td>
   </tr>
 </table>

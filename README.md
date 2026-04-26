@@ -1,85 +1,177 @@
-# Hi 👋, I'm SAAIM ABDULLAH
+<!-- ================= HEADER ================= -->
+<h1 align="center">Hi 👋, I'm SAAIM ABDULLAH</h1>
 
-### A Passionate Engineer
-<p align="left">
- <a href="https://saaim.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=vercel" />
- </a>
- <a href="https://saaim.vercel.app/Saaim_.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
- </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+%7C+Data+%7C+ML+Engineer;Building+Scalable+Systems;Cloud+%7C+AI+%7C+Distributed+Systems" />
 </p>
 
-- 🔭 I'm currently working on **Data structures and algorithms , Machine Learning , cloud**
-
-- 🌱 I'm currently learning **Data structure and Algorithms  and Machine Learnign**
-
-- 👯 I'm looking to collaborate on **open source projects**
-
-- 📫 How to reach me **saaim.abdullah.work@gmail.com**
-
-- 👨‍💻 my portfolio **[https://saaim.vercel.app/](https://saaim.vercel.app/)**
-
-- 📄 Know about my experiences **[https://saaim.vercel.app/Saaim_.pdf](https://saaim.vercel.app/Saaim_.pdf)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-  <a href="https://github.com/saaim12" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
+<div align="center">
+  <a href="https://saaim.vercel.app">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Live-green?style=for-the-badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/saaim-abdullah" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  <a href="https://saaim.vercel.app/Saaim_.pdf">
+    <img src="https://img.shields.io/badge/📄 Resume-PDF-red?style=for-the-badge"/>
   </a>
-  <a href="https://www.facebook.com/saym.malik.35" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
-  </a>
-  <a href="https://www.instagram.com/saym6789/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/saymmalik08/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/saymmalik08" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="40" />
-  </a>
-  <a href="https://discord.gg/saaim2894" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" />
-  </a>
-</p>
+</div>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+<!-- ================= ABOUT ================= -->
+## 🧠 About Me
 
+<div align="center">
 
-<table align="center" width="100%">
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saaim12&theme=dark" width="100%">
-    </td>
-  </tr>
+🔭 Building **scalable backend systems + ML pipelines**  
+🌱 Learning **advanced DSA + system design + ML deployment**  
+⚡ Focus: **Cloud-native, distributed, AI-driven systems**  
+📫 **saaim.abdullah.work@gmail.com**
 
-  <tr><td colspan="2"><br/></td></tr>
+</div>
 
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saaim12&theme=dark" width="95%">
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saaim12&theme=dark" width="95%">
-    </td>
-  </tr>
+---
 
-  <tr><td colspan="2"><br/></td></tr>
+<!-- ================= CONNECT ================= -->
+## 🌐 Connect
 
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saaim12&theme=dark" width="95%">
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saaim12&theme=dark&utcOffset=5" width="95%">
-    </td>
-  </tr>
-</table>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
+<a href="https://github.com/saaim12"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+<a href="https://linkedin.com/in/saaim-abdullah"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+<a href="https://leetcode.com/u/saymmalik08/"><img src="https://cdn.simpleicons.org/leetcode" width="45"/></a>
+<a href="https://www.geeksforgeeks.org/profile/saymmalik08"><img src="https://cdn.simpleicons.org/geeksforgeeks" width="45"/></a>
 
+</div>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+# ⚡ Tech Stack
+
+### 🖥️ Languages
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,java,python" />
+</div>
+
+### 🌐 Backend & Web
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,react,angular" />
+</div>
+
+### ☁️ Cloud & DevOps
+<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,firebase,linux,git" />
+</div>
+
+### 🧠 Data & ML
+<div align="center">
+<img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn" />
+<img src="https://cdn.simpleicons.org/jupyter" width="45"/>
+</div>
+
+### 🗄️ Databases
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+</div>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+# 🚀 Featured Projects
+
+<div style="display:flex; flex-direction:column; gap:25px;">
+
+### 🔐 ML-Based Encryption System
+- Autoencoder-based secure data encoding  
+- Edge device (ESP32) → Cloud pipeline  
+- Flask server for inference  
+
+**Stack:** Python, TensorFlow Lite, Flask, IoT  
+
+---
+
+### 📊 AI Data Processing Pipeline
+- Excel/PDF ingestion → structured pipeline  
+- Cloud-based processing architecture  
+- Designed for scalability + automation  
+
+**Stack:** Python, Azure/AWS, Pandas  
+
+---
+
+### 🛒 Full Stack Bookstore
+- MERN-based e-commerce system  
+- Authentication, cart, API integration  
+
+**Stack:** MongoDB, Express, React, Node  
+
+---
+
+### ☁️ Dockerized Microservices Deployment
+- Containerized frontend + backend  
+- CI/CD-ready architecture  
+- Deployed on AWS  
+
+**Stack:** Docker, AWS, Node.js  
+
+</div>
+
+---
+
+<!-- ================= SYSTEM DESIGN ================= -->
+# 🧩 System Design Focus
+
+<div align="center">
+
+✔ Scalable API architecture  
+✔ Microservices & containerization  
+✔ ML inference pipelines  
+✔ Cloud deployment patterns  
+✔ Data processing pipelines  
+
+</div>
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saaim12&theme=github_dark" width="100%" />
+
+<br/>
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saaim12&theme=github_dark" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saaim12&theme=github_dark" width="400"/>
+</div>
+
+<br/>
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saaim12&theme=github_dark" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saaim12&theme=github_dark&utcOffset=5" width="400"/>
+</div>
+
+</div>
+
+---
+
+<!-- ================= SNAKE ================= -->
+# 🐍 Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/saaim12/saaim12/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+# ⚡ Positioning Statement
+
+<div align="center">
+
+💡 Engineer focused on **building scalable backend + ML-powered systems**  
+🚀 Strong in **cloud, APIs, and data pipelines**  
+🎯 Targeting **Backend / AI / Cloud Engineering roles**
+
+</div>

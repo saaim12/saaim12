@@ -9,7 +9,7 @@
   <a href="https://saaim.vercel.app">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Live-green?style=for-the-badge"/>
   </a>
-  <a href="https://saaim.vercel.app/Saaim_.pdf">
+  <a href="https://saaim.vercel.app/#resume">
     <img src="https://img.shields.io/badge/📄 Resume-PDF-red?style=for-the-badge"/>
   </a>
 </div>

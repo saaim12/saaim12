@@ -1,177 +1,119 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">Hi 👋, I'm SAAIM ABDULLAH</h1>
+<h1 align="center">Hi 👋, I'm Saaim Abdullah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+%7C+Data+%7C+ML+Engineer;Building+Scalable+Systems;Cloud+%7C+AI+%7C+Distributed+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Django+%7C+DRF+%7C+Flask+%7C+Node.js;AWS+%7C+Docker+%7C+CI%2FCD;AI+%2F+LLM+%2F+RAG+Integration" />
 </p>
 
 <div align="center">
   <a href="https://saaim.vercel.app">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Live-green?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live-00C853?style=for-the-badge"/>
   </a>
-  <a href="https://saaim.vercel.app/#resume">
-    <img src="https://img.shields.io/badge/📄 Resume-PDF-red?style=for-the-badge"/>
+  <a href="https://linkedin.com/in/saaim-abdullah">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:saaim.abdullah.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-<!-- ================= ABOUT ================= -->
 ## 🧠 About Me
 
-<div align="center">
+Backend software engineer specializing in **scalable APIs, event-driven systems, and AI/LLM integration**. I build production Django/DRF backends, design AWS-based data pipelines, and ship cost-conscious RAG and LLM features.
 
-🔭 Building **scalable backend systems + ML pipelines**  
-🌱 Learning **advanced DSA + system design + ML deployment**  
-⚡ Focus: **Cloud-native, distributed, AI-driven systems**  
-📫 **saaim.abdullah.work@gmail.com**
-
-</div>
+- 🔭 Currently building backend systems and RAG pipelines (Django + pgvector + LLMs)
+- ⚡ Focus: distributed systems, event-driven architecture, AI integration
+- 🌱 Deepening: Kafka, system design, production ML deployment
+- 📫 **saaim.abdullah.work@gmail.com**
 
 ---
 
-<!-- ================= CONNECT ================= -->
 ## 🌐 Connect
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+<div align="center">
 
-<a href="https://github.com/saaim12"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
-<a href="https://linkedin.com/in/saaim-abdullah"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-<a href="https://leetcode.com/u/saymmalik08/"><img src="https://cdn.simpleicons.org/leetcode" width="45"/></a>
-<a href="https://www.geeksforgeeks.org/profile/saymmalik08"><img src="https://cdn.simpleicons.org/geeksforgeeks" width="45"/></a>
+<a href="https://github.com/saaim12"><img src="https://skillicons.dev/icons?i=github" width="42"/></a>
+<a href="https://linkedin.com/in/saaim-abdullah"><img src="https://skillicons.dev/icons?i=linkedin" width="42"/></a>
+<a href="https://leetcode.com/u/saymmalik08/"><img src="https://cdn.simpleicons.org/leetcode" width="42"/></a>
+<a href="https://saaim.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="42"/></a>
 
 </div>
 
 ---
 
-<!-- ================= TECH STACK ================= -->
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
-### 🖥️ Languages
-<div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,java,python" />
-</div>
+**Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java" />
+</p>
 
-### 🌐 Backend & Web
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,react,angular" />
-</div>
+**Backend & Frameworks**
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express" />
+</p>
 
-### ☁️ Cloud & DevOps
-<div align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,firebase,linux,git" />
-</div>
+**Cloud & DevOps**
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,githubactions" />
+</p>
+<sub>ECS Fargate · RDS · S3 · Lambda · SQS/SNS · API Gateway · ALB · IAM · VPC · MSK (Kafka)</sub>
 
-### 🧠 Data & ML
-<div align="center">
-<img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn" />
-<img src="https://cdn.simpleicons.org/jupyter" width="45"/>
-</div>
-
-### 🗄️ Databases
-<div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-</div>
+**Data & AI**
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+<img src="https://cdn.simpleicons.org/apachekafka/231F20" width="42"/>
+</p>
+<sub>pgvector · RAG / LLM integration · OpenAI & Gemini embeddings · ETL pipelines</sub>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<div style="display:flex; flex-direction:column; gap:25px;">
+### 🧠 Django RAG Backend
+Retrieval-Augmented Generation API over a CSV knowledge base. Embeds documents, runs cosine vector search in Postgres, and returns LLM answers grounded in your data — with an honest "I don't know" when the answer isn't there.
+**Stack:** Django · DRF · PostgreSQL + pgvector · Gemini
+🔗 [Repo](https://github.com/saaim12/Rag-in-django-Backend)
+
+---
+
+### 📊 AWS ETL / Data Processing Pipeline
+Event-driven ingestion and processing pipeline built on AWS Lambda, S3, and EC2 with MongoDB storage. Designed for scalability and automation.
+**Stack:** Python · AWS (Lambda, S3, EC2) · MongoDB
+
+---
 
 ### 🔐 ML-Based Encryption System
-- Autoencoder-based secure data encoding  
-- Edge device (ESP32) → Cloud pipeline  
-- Flask server for inference  
-
-**Stack:** Python, TensorFlow Lite, Flask, IoT  
+Autoencoder-based secure data encoding from an ESP32 edge device through a cloud inference pipeline.
+**Stack:** Python · TensorFlow Lite · Flask · IoT
 
 ---
 
-### 📊 AI Data Processing Pipeline
-- Excel/PDF ingestion → structured pipeline  
-- Cloud-based processing architecture  
-- Designed for scalability + automation  
-
-**Stack:** Python, Azure/AWS, Pandas  
+### 🛒 Full-Stack Bookstore
+MERN e-commerce platform with authentication, cart, and REST API integration.
+**Stack:** MongoDB · Express · React · Node.js
 
 ---
 
-### 🛒 Full Stack Bookstore
-- MERN-based e-commerce system  
-- Authentication, cart, API integration  
-
-**Stack:** MongoDB, Express, React, Node  
-
----
-
-### ☁️ Dockerized Microservices Deployment
-- Containerized frontend + backend  
-- CI/CD-ready architecture  
-- Deployed on AWS  
-
-**Stack:** Docker, AWS, Node.js  
-
-</div>
-
----
-
-<!-- ================= SYSTEM DESIGN ================= -->
-# 🧩 System Design Focus
+## 📊 GitHub Analytics
 
 <div align="center">
 
-✔ Scalable API architecture  
-✔ Microservices & containerization  
-✔ ML inference pipelines  
-✔ Cloud deployment patterns  
-✔ Data processing pipelines  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saaim12&theme=github_dark" width="80%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saaim12&theme=github_dark" width="390"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saaim12&theme=github_dark" width="390"/>
 
 </div>
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saaim12&theme=github_dark" width="100%" />
-
-<br/>
-
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saaim12&theme=github_dark" width="400"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saaim12&theme=github_dark" width="400"/>
-</div>
-
-<br/>
-
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saaim12&theme=github_dark" width="400"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saaim12&theme=github_dark&utcOffset=5" width="400"/>
-</div>
-
-</div>
-
----
-
-<!-- ================= SNAKE ================= -->
-# 🐍 Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/saaim12/saaim12/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-# ⚡ Positioning Statement
-
-<div align="center">
-
-💡 Engineer focused on **building scalable backend + ML-powered systems**  
-🚀 Strong in **cloud, APIs, and data pipelines**  
-🎯 Targeting **Backend / AI / Cloud Engineering roles**
-
 </div>

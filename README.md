@@ -46,7 +46,7 @@ Production-style RAG backend with **tenant isolation (JWT claims), per-tenant qu
 RAG backend using **pgvector + Google Gemini** for grounded document Q&A over a Django API.
 `Django` `pgvector` `Gemini`
 
-> 📖 Full write-ups on [Medium](https://medium.com/@Saaim) · code on the repos below.
+> 📖 Full write-ups on [Medium](https://medium.com/@saymmalik08) · code on the repos below.
 
 ---
 

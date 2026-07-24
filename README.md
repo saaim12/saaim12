@@ -21,7 +21,7 @@
 💬 Ask me about **Django REST Framework, RAG (pgvector, multilingual embeddings), Kafka, ETL, and AWS**.<br>
 ⚡ Fun fact: I reached **production-level Django proficiency** in a short time through intensive hands-on projects.
 
-🔗 **Portfolio:** [saaim.vercel.app](https://saaim.vercel.app) &nbsp;|&nbsp; 📄 **Resume:** [resume](https://saaim.vercel.app/uploads/Saaim.pdf)
+🔗 **Portfolio:** [saaim.vercel.app](https://saaim.vercel.online) &nbsp;|&nbsp; 📄 **Resume:** [resume](https://www.saaim.online/SaaimCV.pdf)
 
 ## 🌐 Connect With Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saaim.vercel.app)

@@ -15,11 +15,11 @@
 ---
 
 ## 💫 About Me
-🔭 Currently building a **real-time ETL pipeline** (Kafka · Spark · Airflow · star-schema warehouse) and AI/data-engineering backends.<br>
-👯 Open to collaborating on **data pipelines, RAG systems, and Django/DRF backends**.<br>
-🌱 Going deep on **Apache Spark, distributed data processing, and data warehouse design**.<br>
-💬 Ask me about **Django REST Framework, RAG (pgvector, multilingual embeddings), Kafka, ETL, and AWS**.<br>
-⚡ Fun fact: I reached **production-level Django proficiency** in a short time through intensive hands-on projects.
+Hi, I’m Saaim. I build software that keeps working when a lot of people use it.
+- Open to collaborating on **data pipelines, RAG systems, and Django/DRF backends**.<br>
+- Going deep on **Apache Spark, distributed data processing, and data warehouse design**.<br>
+- Ask me about **Django REST Framework, RAG (pgvector, multilingual embeddings), Kafka, ETL, and AWS**.<br>
+- Fun fact: I reached **production-level Django proficiency** in a short time through intensive hands-on projects.
 
 🔗 **Portfolio:** [saaim](https://saaim.site) &nbsp;|&nbsp; 📄 **Resume:** [resume](https://saaim.site/SaaimCV.pdf)
 
@@ -41,7 +41,8 @@ Streaming + batch pipeline: **Kafka → Spark Structured Streaming → Medallion
 ### 🔹 Multilingual Multi-Tenant RAG Engine
 Production-style RAG backend with **tenant isolation (JWT claims), per-tenant quotas, multilingual retrieval (multilingual-e5-base), and pgvector search**. Next.js frontend.
 `Django REST` `pgvector` `JWT` `Next.js` `PostgreSQL`
-
+### 🔹Production Grade Recommender SSystem
+`Flask,Machine Learning,Python`
 ### 🔹 Single-Tenant English RAG System
 RAG backend using **pgvector + Google Gemini** for grounded document Q&A over a Django API.
 `Django` `pgvector` `Gemini`
